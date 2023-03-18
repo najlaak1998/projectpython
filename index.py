@@ -1,6 +1,6 @@
 from tkinter import *
 Window=Tk()
-Window.title("Registraation Form")
+Window.title("Registration Form")
 Window.geometry("300x200+10+20")
 
 labl_0 =Label(text="Registration form", width=20, font=("bold", 20),fg="blue")
